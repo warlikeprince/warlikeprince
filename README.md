@@ -8,7 +8,7 @@
 ## GitHub Stats:
 [![Warlikeprince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=warlikeprince)](https://ko-fi.com/warlikeprince)
 
-## Founder / Web Developer:
+## Founder / Developer:
 <a href="https://github.com/warlikeprince" align="center">
-  <img border="0" alt="Antarang Solutions" src="" width="600" height="250">
+  <img border="0" alt="Antarang Solutions" src="https://media.discordapp.net/attachments/1296130667469471842/1303638857178419200/redo.png" width="600" height="250">
 </a>
